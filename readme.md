@@ -2,6 +2,8 @@ Rex White Paper
 
 # White Paper
 
+Update 19/08/2016: A few things have changed since we wrote this whitepaper, and will probably continue to be tweaked as development on the platform continues.  The core structure will stay the same, but things like fees and distribution schedules may be tweaked before we do the full launch.
+
 ## A Decentralized Multiple Listing Service and Real Estate Smart Contract Application  
 
 Rex: We are referring to the DAO, Rex  
@@ -304,7 +306,7 @@ Rex invented a new means of token distribution, the Liquidity Injection Distribu
 With an initial coin supply of zero, there needs to be a way for Rex to distribute the REX tokens as fairly as possible. There will be 4 ways users can obtain REX.
 
 1. Place buy orders on the REXDEX, hope to win the Liquidity Injection Distribution rewards, or have someone take your offer
-2. Participate in the REX crowdfund 
+2. Participate in the REX token swap 
 3. Claim 'The DAO' reward points for REX 
 4. Start submitting listings as a registered broker and receive listing rewards (for a limited time)
 
@@ -313,7 +315,7 @@ Rex token information
 
 * 1,000,000,000 max token supply
 * 0 initial supply
-* 50 REX fee for uploading a batch of listings
+* 50 REX fee for uploading a batch of listings (adjusted to be around 10-20c)
 
 * DexLid distribution schedule
   * Supply < 500,000,000 reward = 35,000 every 6 hours
@@ -360,7 +362,7 @@ With no inflation and fees being taken in RexDex fees, listing upload fees etc.,
 
 Initially, Rex will hold two fundraising campaigns:
 
-Campaign #1: Prototype to beta release. We estimate a 6-9 month period with a budget of $350,000. A large focus will be on mastering data distribution, implementing a streamlined user experience and the release of a soft beta launch. 
+Token Swap #1: Prototype to beta release. We estimate a 6-9 month period with a budget of 45,000 ETH (Token swap forcefully closed at 90,000 ETH). A large focus will be on mastering data distribution, implementing a streamlined user experience and the release of a soft beta launch. 
 
 Funds will be deployed as follows:
 
@@ -369,7 +371,7 @@ Funds will be deployed as follows:
 4. Travel expenses (promote Rex at real estate conferences/events)
 5. Marketing 
 
-Campaign #2: Following the release/testing of beta, Rex will raise Campaign #2. Campaign #2 will be a larger round that will fund the continuation of Phase I and begin Phase II of the Rex platform. 
+Token Swap #2: Following the release/testing of beta, Rex will raise Campaign #2. Campaign #2 will be a larger round that will fund the continuation of Phase I and begin Phase II of the Rex platform. 
 
 <a name="concerns"></a>
 ### Concerns
